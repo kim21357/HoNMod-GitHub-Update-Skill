@@ -7,7 +7,7 @@ description: Publish and maintain GitHub-based updates for any Heroes of Newerth
 
 **For every HoN mod author.** This procedure is not bound to NF In-Game Matchmaking, a particular GitHub account, a person's Windows drive, or a specific game installation.
 
-**Required client:** Newerth Forge 1.8.1 Dev with GitHub Update support. Earlier clients may ignore the new XML attributes.
+**Required client:** Newerth Forge 1.8.1 or later with GitHub Update support. Earlier clients may ignore the new XML attributes.
 
 ## When to use this skill
 
@@ -178,7 +178,7 @@ Current CHECK UPDATES is user-initiated and uses an approximately **15-minute pe
 | Identity/version mismatch | Downloaded `mod.xml` uses different name/repo/update ID/advertised version. |
 | Apply required | Update downloaded the package, but game resource changes were not applied yet. |
 
-## Current Newerth Forge 1.8.1 Dev constraints
+## Newerth Forge 1.8.1 GitHub Update constraints
 
 - Public GitHub repositories only; no GitHub token embedded in the mod.
 - Package download <= 64 MiB, at most 5,000 archive entries, advertised expanded size <= 256 MiB.
