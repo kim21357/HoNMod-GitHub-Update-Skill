@@ -1,6 +1,6 @@
 # GitHub Update Skill for Heroes of Newerth .honmod
 
-A reusable, mod-independent developer guide for distributing and updating **.honmod** packages through public GitHub repositories and GitHub Releases using **Newerth Forge 1.8.1 Dev**.
+A reusable, mod-independent developer guide for distributing and updating **.honmod** packages through public GitHub repositories and GitHub Releases using **Newerth Forge 1.8.1 +**.
 
 ## Start here
 
